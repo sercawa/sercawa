@@ -1,9 +1,12 @@
+
 <p align="center">
   <a href="https://discord.com/users/504355598427488260">
     <img src="https://lanyard.cnrad.dev/api/504355598427488260?theme=light" alt="Discord Presence"/>
   </a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sercawa&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" alt="Visitor Count"/>
+</p>
 <h1 align="center">Hi 👋, I'm sercawa</h1>
 
 <h3 align="center">Languages and Tools:</h3>
