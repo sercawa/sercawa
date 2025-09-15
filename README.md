@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://discord.com/users/504355598427488260">
     <img src="https://lanyard.cnrad.dev/api/504355598427488260?theme=light" alt="Discord Presence"/>
@@ -23,4 +22,11 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
+</p>
+
+<h3 align="center">📫 Contact Me:</h3>
+<p align="center">
+  <a href="https://discord.com/users/504355598427488260" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
