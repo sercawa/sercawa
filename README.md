@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=2500&pause=1000&color=7A9CFF&center=true&vCenter=true&width=500&lines=+Hi👋+I'm+sercawa;FullStack+Developer;Node.js+%7C+Python+%7C+TypeScript" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=2500&pause=1000&color=7A9CFF&center=true&vCenter=true&width=500&lines=+Hi there+I'm+sercawa;FullStack+Developer;Node.js+%7C+Python+%7C+TypeScript" />
 </h1>
 
 <p align="center">
