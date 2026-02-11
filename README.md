@@ -1,4 +1,13 @@
-<!-- Modern Header -->
+<p align="center">
+  <a href="https://discord.com/users/504355598427488260">
+    <img width="400px" src="https://lanyard.kyrie25.dev/api/504355598427488260?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idle" alt="Discord Presence"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sercawa&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" alt="Visitor Count"/>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=2500&pause=1000&color=7A9CFF&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+sercawa;Fullstack+Developer;Node.js+%7C+Python+%7C+TypeScript" />
 </h1>
@@ -9,15 +18,12 @@
   <img src="https://img.shields.io/badge/Always-Learning-00C896?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </p>
 
----
-
 <h3 align="center">⚡ Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,python,ts&theme=dark" />
 </p>
 
----
 
 <h3 align="center">🤝 Contact With Me</h3>
 
