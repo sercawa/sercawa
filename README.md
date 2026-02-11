@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://discord.com/users/504355598427488260">
-    <img src="https://lanyard.cnrad.dev/api/504355598427488260?theme=light" alt="Discord Presence"/>
+    <img width="400px" src="https://lanyard.kyrie25.dev/api/504355598427488260?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idle" alt="Discord Presence"/>
   </a>
 </p>
 <p align="center">
