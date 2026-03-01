@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://discord.com/users/504355598427488260">
-    <img width="400px" src="https://lanyard.kyrie25.dev/api/504355598427488260?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idle" alt="Discord Presence"/>
+    <img 
+      width="420px"
+      src="https://lanyard.cnrad.dev/api/504355598427488260?bg=0d1117&borderRadius=16px&idleMessage=Probably%20building%20something..."
+      alt="Discord Presence"
+    />
   </a>
 </p>
 
@@ -9,7 +13,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=2500&pause=1000&color=7A9CFF&center=true&vCenter=true&width=500&lines=+Hi+there,+I'm+sercawa;FullStack+Developer;Node.js+%7C+Python+%7C+TypeScript" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=2500&pause=1000&color=7A9CFF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+sercawa;FullStack+Developer;Node.js+%7C+Python+%7C+TypeScript" />
 </h1>
 
 <p align="center">
