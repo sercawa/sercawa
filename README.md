@@ -27,9 +27,6 @@
   <img src="https://streak-stats.demolab.com?user=sercawa&theme=tokyonight&border_radius=14&show_icons=true"/>
   <br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=sercawa&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10"/>
-</p>
-
 <h2 align="center">📈 Activity Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sercawa&theme=tokyo-night&area=true&hide_border=true"/>
