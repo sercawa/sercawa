@@ -1,15 +1,13 @@
-<!-- DISCORD PRESENCE -->
 <p align="center">
   <a href="https://discord.com/users/504355598427488260">
     <img 
       width="420"
-      src="https://lanyard-profile-readme.vercel.app/api/504355598427488260?theme=dark&bg=0d1117&borderRadius=16px"
+      src="https://api.lanyard.rest/504355598427488260.png"
       alt="Discord Presence"
     />
   </a>
 </p>
 
-<!-- VISITOR COUNT -->
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=sercawa&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" 
@@ -22,9 +20,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-7A9CFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Loves-Clean%20Code-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Always-Learning-00C896?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-7A9CFF?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loves-Clean%20Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Always-Learning-00C896?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </p>
 
 <h3 align="center">⚡ Tech Stack</h3>
