@@ -1,7 +1,9 @@
 <table width="100%">
   <tr>
     <td align="center">
-      <img width="520" src="https://lanyard.cnrad.dev/api/504355598427488260?theme=dark&animated=true&borderRadius=20px&v=6"/>
+      <div align="center">
+        <img width="540" src="https://lanyard.cnrad.dev/api/504355598427488260?theme=dark&animated=true&borderRadius=20px&v=6"/>
+      </div>
     </td>
   </tr>
 </table>
