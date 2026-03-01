@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
-    <td align="center">
-      <div align="center">
+    <td align="right"> <!-- Burayı right yaptık -->
+      <div align="right">
         <img width="540" src="https://lanyard.cnrad.dev/api/504355598427488260?theme=dark&animated=true&borderRadius=20px&v=6"/>
       </div>
     </td>
