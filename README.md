@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Always-Learning-00C896?style=for-the-badge"/>
 </p>
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">⚡Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,python,ts,docker,redis&theme=dark"/>
 </p>
