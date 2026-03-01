@@ -1,8 +1,12 @@
-<p align="center">
+<table width="100%">
+  <tr>
+    <td align="center">
 
-![Discord Presence](https://lanyard.cnrad.dev/api/504355598427488260?theme=dark&animated=true&borderRadius=16px&v=4)
+![Discord Presence](https://lanyard.cnrad.dev/api/504355598427488260?theme=dark&animated=true&borderRadius=16px&v=5)
 
-</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sercawa&label=Visitors&color=7A9CFF&style=for-the-badge"/>
