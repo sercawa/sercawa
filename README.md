@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/504355598427488260?theme=dark&bg=0d1117&animated=true&borderRadius=16px"/>
+
+![Discord Presence](https://lanyard.cnrad.dev/api/504355598427488260?theme=dark&animated=true&borderRadius=16px&v=4)
+
 </p>
 
 <p align="center">
