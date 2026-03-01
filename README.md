@@ -21,18 +21,17 @@
   <img src="https://skillicons.dev/icons?i=js,nodejs,python,ts,docker,redis&theme=dark"/>
 </p>
 
+<!-- ======================= DEVELOPER PROFILE ======================= -->
 <h2 align="center">🏆 Developer Profile</h2>
 
+<!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sercawa&theme=tokyonight&border_radius=14"/>
+  <img src="https://streak-stats.demolab.com?user=sercawa&theme=tokyonight&border_radius=14&show_icons=true"/>
 </p>
 
+<!-- Stabil Stats Cards -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sercawa&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10"/>
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sercawa&show_icons=true&theme=tokyonight&border_radius=12&cache_seconds=1800"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sercawa&show_icons=true&count_private=true&theme=tokyonight&border_radius=12&cache_seconds=1800"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sercawa&layout=compact&theme=tokyonight&border_radius=12&cache_seconds=1800"/>
 </p>
 
