@@ -1,12 +1,6 @@
-<table width="100%">
-  <tr>
-    <td align="right"> <!-- Burayı right yaptık -->
-      <div align="right">
-        <img width="540" src="https://lanyard.cnrad.dev/api/504355598427488260?theme=dark&animated=true&borderRadius=20px&v=6"/>
-      </div>
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <img width="540" src="https://lanyard.cnrad.dev/api/504355598427488260?theme=dark&animated=true&borderRadius=20px&v=6"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sercawa&label=Visitors&color=7A9CFF&style=for-the-badge"/>
