@@ -1,8 +1,7 @@
 <p align="center">
   <a href="https://discord.com/users/504355598427488260">
     <img 
-      width="420"
-      src="https://api.lanyard.rest/504355598427488260.png"
+      src="https://lanyard.cnrad.dev/api/504355598427488260?theme=dark&bg=0d1117&animated=true"
       alt="Discord Presence"
     />
   </a>
@@ -29,6 +28,19 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,python,ts,docker,redis&theme=dark" />
+</p>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sercawa&show_icons=true&theme=tokyonight&border_radius=10"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sercawa&layout=compact&theme=tokyonight&border_radius=10"/>
+</p>
+
+<h3 align="center">🔥 GitHub Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sercawa&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
 <h3 align="center">🤝 Contact With Me</h3>
