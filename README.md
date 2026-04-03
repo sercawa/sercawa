@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="540" src="https://lanyard.cnrad.dev/api/504355598427488260?theme=dark&animated=true&borderRadius=20px&v=6"/>
+  <img width="540" src="https://lanyard.cnrad.dev/api/278671095719133185?theme=dark&animated=true&borderRadius=20px&v=6"/>
 </div>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 <h2 align="center">🤝 Contact</h2>
 <p align="center">
-  <a href="https://discord.com/users/504355598427488260">
+  <a href="https://discord.com/users/278671095719133185">
     <img src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://github.com/sercawa">
