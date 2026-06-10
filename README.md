@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="540" src="https://lanyard.cnrad.dev/api/278671095719133185?idleMessage=sercawa&bg=393c44&hideTag=true&hideStatus=true&hideTimestamp=true)](https://discord.com/users/278671095719133185"/>
+  <img width="540" src="https://lanyard.cnrad.dev/api/278671095719133185?idleMessage=sercawa&bg=272a30&hideTag=true&hideStatus=true&hideTimestamp=true)](https://discord.com/users/278671095719133185"/>
 </div>
 
 <p align="center">
