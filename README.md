@@ -21,12 +21,6 @@
   <img src="https://skillicons.dev/icons?i=js,nodejs,python,ts,docker,redis&theme=dark"/>
 </p>
 
-<h2 align="center">🏆 Developer Profile</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sercawa&theme=tokyonight&border_radius=14&show_icons=true"/>
-  <br/>
-
 <h2 align="center">🤝 Contact</h2>
 <p align="center">
   <a href="https://discord.com/users/278671095719133185">
