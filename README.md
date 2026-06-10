@@ -7,7 +7,6 @@
 <h1 align="center">
 </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-7A9CFF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Loves-Clean%20Code-FF6B6B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Always-Learning-00C896?style=for-the-badge"/>
 </p>
