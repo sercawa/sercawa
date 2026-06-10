@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sercawa&label=Visitors&color=7A9CFF&style=for-the-badge"/>
 </p>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=36&duration=2500&pause=1000&color=7A9CFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+sercawa;FullStack+Developer;Node.js+%7C+Python+%7C+TypeScript"/>
 </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-7A9CFF?style=for-the-badge"/>
