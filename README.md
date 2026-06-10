@@ -14,7 +14,7 @@
 </p>
 <h2 align="center"></h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,ts,redis&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,ts&theme=dark"/>
 </p>
 <h2 align="center"></h2>
 <p align="center">
