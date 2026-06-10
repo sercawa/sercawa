@@ -24,6 +24,3 @@
   <a href="https://github.com/sercawa">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A9CFF,100:3256A8&height=160&section=footer"/>
-</p>
