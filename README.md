@@ -1,7 +1,7 @@
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Playwrite+Italia+Moderna&size=27&duration=3000&pause=1000&color=7A9CFF&center=true&vCenter=true&width=500&height=65&lines=Hi+there%2C+I'm+sercawa"
+    src="https://readme-typing-svg.demolab.com?font=Playwrite+Italia+Moderna&size=27&duration=3000&pause=1000&color=7A9CFF&center=true&vCenter=true&width=500&height=65&lines=Hi+there%2C+I%27m+sercawa"
     alt="Hi there, I'm sercawa"
   />
 
@@ -17,14 +17,12 @@
 
 </div>
 
-
 <h2 align="center"></h2>
-
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=js,nodejs,python,ts&theme=dark"
-    alt="Skills"
+    src="https://skillicons.dev/icons?i=nextjs,js,nodejs,python,ts,mongodb,react&theme=dark"
+    alt="Next.js, JavaScript, Node.js, Python, TypeScript, MongoDB and React"
   />
 </p>
 
