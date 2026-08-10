@@ -8,48 +8,48 @@
 
 <img src="https://komarev.com/ghpvc/?username=sercawa&label=VISITORS&color=7A9CFF&style=flat-square" alt="Profile Views">
 
-<br><br>
+<br>
 
 <h1>Sercawa</h1>
 
 <sub>Developer · Software Engineer · Always Learning</sub>
 
-</div>
+<br>
 
-<hr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7A9CFF&height=2&width=100" alt="Separator">
 
-<div align="center">
+<br>
 
 <b>ABOUT ME</b>
 
-<br><br>
+<br>
 
 <sub>
 I build clean, reliable and maintainable software.<br>
 Always learning, experimenting and improving.
 </sub>
 
-</div>
+<br>
 
-<hr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7A9CFF&height=2&width=100" alt="Separator">
 
-<div align="center">
+<br>
 
 <b>TECHNOLOGIES</b>
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=js,nodejs,python,ts&theme=dark" alt="JavaScript, Node.js, Python, TypeScript">
 
-</div>
+<br>
 
-<hr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7A9CFF&height=2&width=100" alt="Separator">
 
-<div align="center">
+<br>
 
 <b>FOCUS</b>
 
-<br><br>
+<br>
 
 <table align="center">
 <tr>
@@ -58,14 +58,14 @@ Always learning, experimenting and improving.
 <sub>Simple · Maintainable</sub>
 </td>
 
-<td width="30"></td>
+<td width="25"></td>
 
 <td align="center">
 <b>Problem Solving</b><br>
 <sub>Think · Build</sub>
 </td>
 
-<td width="30"></td>
+<td width="25"></td>
 
 <td align="center">
 <b>Continuous Learning</b><br>
@@ -74,15 +74,15 @@ Always learning, experimenting and improving.
 </tr>
 </table>
 
-</div>
+<br>
 
-<hr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7A9CFF&height=2&width=100" alt="Separator">
 
-<div align="center">
+<br>
 
 <b>CONNECT</b>
 
-<br><br>
+<br>
 
 <a href="https://discord.com/users/278671095719133185">
 <img src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
@@ -94,7 +94,11 @@ Always learning, experimenting and improving.
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<br><br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7A9CFF&height=2&width=100" alt="Separator">
+
+<br>
 
 <sub>Building clean software with purpose.</sub>
 
