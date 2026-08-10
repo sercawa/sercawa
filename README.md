@@ -1,201 +1,87 @@
 <div align="center">
 
-<img
- src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=28&duration=2500&pause=1000&color=EDEDED&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Hi+there%2C+I'm+Sercawa"
- alt="Typing SVG"
-/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=EDEDED&center=true&vCenter=true&repeat=false&width=500&height=45&lines=Hi+there%2C+I'm+Sercawa"
+    alt="Hi there, I'm Sercawa"
+  />
 
   <br>
 
-<img
- src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
- width="50px"
- alt=""
-/>
+  <hr width="120">
 
-  <br>
-
-<img
- width="400"
- src="https://lanyard.cnrad.dev/api/278671095719133185?idleMessage=sercawa&bg=232429&hideTag=true&hideStatus=true&hideTimestamp=true"
- alt="Discord Status"
-/>
-
-  <br>
-
-<img
- src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
- width="50px"
- alt=""
-/>
+  <img
+    width="400"
+    src="https://lanyard.cnrad.dev/api/278671095719133185?idleMessage=sercawa&bg=232429&hideTag=true&hideStatus=true&hideTimestamp=true"
+    alt="Discord Status"
+  />
 
 </div>
 
+<hr>
+
 <div align="center">
 
-  <br>
+  <h2>ABOUT ME</h2>
 
-<img
- src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
- width="35px"
- alt=""
-/>
-
-  
-
-<b>ABOUT ME</b>
-
-  
-
-<img
- src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
- width="35px"
- alt=""
-/>
-
-<br><br>
-
-  <sub>
-    I build clean, reliable and maintainable software.
-    <br>
-    Always learning, experimenting and improving.
-  </sub>
-
-<br><br>
-
-<img
- src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
- width="50px"
- alt=""
-/>
+  <p>
+    <b>I build clean, reliable and maintainable software.</b><br>
+    <sub>Always learning, experimenting and improving.</sub>
+  </p>
 
 </div>
 
+<hr>
+
 <div align="center">
 
-  <br>
+  <h2>TECHNOLOGIES</h2>
 
-<img
- src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
- width="35px"
- alt=""
-/>
-
-  
-
-<b>TECHNOLOGIES</b>
-
-  
-
-<img
- src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
- width="35px"
- alt=""
-/>
-
-<br><br>
-
-<img
- src="https://skillicons.dev/icons?i=js,nodejs,python,ts&theme=dark"
- alt="JavaScript, Node.js, Python, TypeScript"
-/>
-
-<br><br>
-
-<img
- src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
- width="50px"
- alt=""
-/>
+  <img
+    src="https://skillicons.dev/icons?i=js,nodejs,python,ts&theme=dark"
+    alt="JavaScript Node.js Python TypeScript"
+  />
 
 </div>
 
+<hr>
+
 <div align="center">
 
-  <br>
-
-<img
- src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
- width="35px"
- alt=""
-/>
-
-  
-
-<b>FOCUS</b>
-
-  
-
-<img
- src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
- width="35px"
- alt=""
-/>
-
-<br><br>
+  <h2>FOCUS</h2>
 
   <table align="center">
     <tr>
       <td align="center">
-        <b>Clean Code</b>
+        <b>CLEAN CODE</b>
         <br>
         <sub>Simple · Readable · Maintainable</sub>
       </td>
 
-```
-  <td width="30"></td>
+      <td width="35"></td>
 
-  <td align="center">
-    <b>Problem Solving</b>
-    <br>
-    <sub>Think · Build · Improve</sub>
-  </td>
+      <td align="center">
+        <b>PROBLEM SOLVING</b>
+        <br>
+        <sub>Think · Build · Improve</sub>
+      </td>
 
-  <td width="30"></td>
+      <td width="35"></td>
 
-  <td align="center">
-    <b>Continuous Learning</b>
-    <br>
-    <sub>Explore · Experiment · Grow</sub>
-  </td>
-</tr>
-```
-
+      <td align="center">
+        <b>CONTINUOUS LEARNING</b>
+        <br>
+        <sub>Explore · Experiment · Grow</sub>
+      </td>
+    </tr>
   </table>
-
-  <br>
-
-<img
- src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
- width="50px"
- alt=""
-/>
 
 </div>
 
+<hr>
+
 <div align="center">
 
-  <br>
-
-<img
- src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
- width="35px"
- alt=""
-/>
-
-  
-
-<b>CONNECT</b>
-
-  
-
-<img
- src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
- width="35px"
- alt=""
-/>
-
-<br><br>
+  <h2>CONNECT</h2>
 
   <a href="https://discord.com/users/278671095719133185">
     <img
@@ -204,7 +90,7 @@
     />
   </a>
 
-  
+  &nbsp;&nbsp;
 
   <a href="https://github.com/sercawa">
     <img
@@ -212,13 +98,5 @@
       alt="GitHub"
     />
   </a>
-
-<br><br>
-
-<img
- src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
- width="50px"
- alt=""
-/>
 
 </div>
