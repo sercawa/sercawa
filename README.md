@@ -1,172 +1,61 @@
 <div align="center">
 
-  <a href="https://discord.com/users/278671095719133185">
-    <img
-      width="540"
-      src="https://lanyard.cnrad.dev/api/278671095719133185?idleMessage=sercawa&bg=232429&hideTag=true&hideStatus=true&hideTimestamp=true"
-      alt="Discord Status"
-    />
-  </a>
-
-<br><br>
-
-<img
- src="https://komarev.com/ghpvc/?username=sercawa&label=VISITORS&color=7A9CFF&style=flat-square"
- alt="Profile Views"
-/>
-
-<br><br>
-
-  <h1>Sercawa</h1>
-
-  <p>
-    Developer&nbsp;&nbsp;·&nbsp;&nbsp;Software Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Always Learning
-  </p>
-
-</div>
+<a href="https://discord.com/users/278671095719133185">
+<img width="540" src="https://lanyard.cnrad.dev/api/278671095719133185?idleMessage=sercawa&bg=232429&hideTag=true&hideStatus=true&hideTimestamp=true" alt="Discord Status">
+</a>
 
 <br>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sercawa&label=VISITORS&color=7A9CFF&style=flat-square" alt="Profile Views">
 
-<img
- src="https://cdn.dribbble.com/userupload/28485882/file/original-be86c9054b4352a9888cf2c74bab53c9.gif"
- width="10"
- alt=""
-/>
+<h1>Sercawa</h1>
 
-   
+<p>Developer&nbsp;&nbsp;·&nbsp;&nbsp;Software Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Always Learning</p>
 
-<b>ABOUT ME</b>
+<br>
 
-   
+<h3>·&nbsp;&nbsp; ABOUT ME &nbsp;&nbsp;·</h3>
 
-<img
- src="https://cdn.dribbble.com/userupload/28485882/file/original-be86c9054b4352a9888cf2c74bab53c9.gif"
- width="10"
- alt=""
-/>
+<p>
+I build clean, reliable and maintainable software.<br>
+Always learning, experimenting and improving.
+</p>
 
-<br><br>
+<br>
 
-  <sub>
-    I build clean, reliable and maintainable software.
-  </sub>
+<h3>·&nbsp;&nbsp; TECHNOLOGIES &nbsp;&nbsp;·</h3>
 
-  <br>
+<p>
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,ts&theme=dark" alt="JavaScript, Node.js, Python, TypeScript">
+</p>
 
-  <sub>
-    Always learning, experimenting and improving.
-  </sub>
+<br>
 
-</div>
+<h3>·&nbsp;&nbsp; FOCUS &nbsp;&nbsp;·</h3>
 
-<br><br>
+<table align="center">
+<tr>
+<td align="center"><b>Clean Code</b><br><sub>Simple & Maintainable</sub></td>
+<td width="25"></td>
+<td align="center"><b>Problem Solving</b><br><sub>Think & Build</sub></td>
+<td width="25"></td>
+<td align="center"><b>Continuous Learning</b><br><sub>Explore & Improve</sub></td>
+</tr>
+</table>
 
-<div align="center">
+<br>
 
-<img
- src="https://cdn.dribbble.com/userupload/28485882/file/original-be86c9054b4352a9888cf2c74bab53c9.gif"
- width="10"
- alt=""
-/>
+<h3>·&nbsp;&nbsp; CONNECT &nbsp;&nbsp;·</h3>
 
-   
-
-<b>TECHNOLOGIES</b>
-
-   
-
-<img
- src="https://cdn.dribbble.com/userupload/28485882/file/original-be86c9054b4352a9888cf2c74bab53c9.gif"
- width="10"
- alt=""
-/>
-
-<br><br>
-
-<img
- src="https://skillicons.dev/icons?i=js,nodejs,python,ts&theme=dark"
- alt="JavaScript, Node.js, Python, TypeScript"
-/>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img
- src="https://cdn.dribbble.com/userupload/28485882/file/original-be86c9054b4352a9888cf2c74bab53c9.gif"
- width="10"
- alt=""
-/>
-
-   
-
-<b>FOCUS</b>
-
-   
-
-<img
- src="https://cdn.dribbble.com/userupload/28485882/file/original-be86c9054b4352a9888cf2c74bab53c9.gif"
- width="10"
- alt=""
-/>
-
-<br><br>
-
-<code>Clean Code</code>
-    <code>Problem Solving</code>
-    <code>Continuous Learning</code>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img
- src="https://cdn.dribbble.com/userupload/28485882/file/original-be86c9054b4352a9888cf2c74bab53c9.gif"
- width="10"
- alt=""
-/>
-
-   
-
-<b>CONNECT</b>
-
-   
-
-<img
- src="https://cdn.dribbble.com/userupload/28485882/file/original-be86c9054b4352a9888cf2c74bab53c9.gif"
- width="10"
- alt=""
-/>
-
-<br><br>
-
-  <a href="https://discord.com/users/278671095719133185">
-    <img
-      src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-      alt="Discord"
-    />
-  </a>
-
-  
-
-  <a href="https://github.com/sercawa">
-    <img
-      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
-</div>
-
-<br><br>
-
-<div align="center">
+<p>
+<a href="https://discord.com/users/278671095719133185">
+<img src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+&nbsp;
+<a href="https://github.com/sercawa">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+</p>
 
 <sub>Building clean software with purpose.</sub>
 
