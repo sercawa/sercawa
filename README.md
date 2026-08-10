@@ -17,28 +17,9 @@
 
 </div>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=sercawa&label=Visitors&color=7A9CFF&style=for-the-badge"
-    alt="Visitors"
-  />
-</p>
 
 <h2 align="center"></h2>
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Loves-Clean%20Code-FF6B6B?style=for-the-badge"
-    alt="Loves Clean Code"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Always-Learning-00C896?style=for-the-badge"
-    alt="Always Learning"
-  />
-</p>
-
-<h2 align="center"></h2>
 
 <p align="center">
   <img
