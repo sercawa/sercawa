@@ -9,8 +9,8 @@
 
   <a href="https://discord.com/users/278671095719133185">
     <img
-      width="440"
-      src="https://lanyard.cnrad.dev/api/278671095719133185?idleMessage=sercawa&bg=232429&hideTag=true&hideStatus=true&hideTimestamp=true"
+      width="380"
+      src="https://lanyard.cnrad.dev/api/278671095719133185?idleMessage=sercawa&bg=000000&hideTag=true&hideStatus=true&hideTimestamp=true"
       alt="Discord Presence"
     />
   </a>
