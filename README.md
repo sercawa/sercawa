@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="540" src="https://lanyard.cnrad.dev/api/278671095719133185?idleMessage=sercawa&bg=232429&hideTag=true&hideStatus=true&hideTimestamp=true)](https://discord.com/users/278671095719133185"/>
+  <img width="400" src="https://lanyard.cnrad.dev/api/278671095719133185?idleMessage=sercawa&bg=232429&hideTag=true&hideStatus=true&hideTimestamp=true" />
 
 </div>
 
@@ -11,18 +11,17 @@
 </p>
 
 <h1 align="center">
-
 </h1>
 
 <p align="center">
 
   <img src="https://img.shields.io/badge/Loves-Clean%20Code-FF6B6B?style=for-the-badge"/>
-
   <img src="https://img.shields.io/badge/Always-Learning-00C896?style=for-the-badge"/>
 
 </p>
 
-<h2 align="center"></h2>
+<h2 align="center">
+</h2>
 
 <p align="center">
 
@@ -30,18 +29,17 @@
 
 </p>
 
-<h2 align="center"></h2>
+<h2 align="center">
+</h2>
 
 <p align="center">
 
   <a href="https://discord.com/users/278671095719133185">
-
-   <img src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-
+    <img src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
   <a href="https://github.com/sercawa">
-
-   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+</p>
