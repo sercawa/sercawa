@@ -1,17 +1,19 @@
 <div align="center">
 
-  <img width="400" src="https://lanyard.cnrad.dev/api/278671095719133185?idleMessage=sercawa&bg=232429&hideTag=true&hideStatus=true&hideTimestamp=true" />
+<img
+ src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=2500&pause=1000&color=EDEDED&center=true&vCenter=true&repeat=false&width=500&height=45&lines=Hi+there%2C+I'm+Sercawa"
+ alt="Typing SVG"
+/>
+
+  <br>
+
+<img
+ width="400"
+ src="https://lanyard.cnrad.dev/api/278671095719133185?idleMessage=sercawa&bg=232429&hideTag=true&hideStatus=true&hideTimestamp=true"
+ alt="Discord Status"
+/>
 
 </div>
-
-<p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=sercawa&label=Visitors&color=7A9CFF&style=for-the-badge"/>
-
-</p>
-
-<h1 align="center">
-</h1>
 
 <p align="center">
 
@@ -20,17 +22,11 @@
 
 </p>
 
-<h2 align="center">
-</h2>
-
 <p align="center">
 
   <img src="https://skillicons.dev/icons?i=js,nodejs,python,ts&theme=dark"/>
 
 </p>
-
-<h2 align="center">
-</h2>
 
 <p align="center">
 
