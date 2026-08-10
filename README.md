@@ -11,7 +11,7 @@
     width="440"
     height="3"
     src="https://capsule-render.vercel.app/api?type=rect&color=0:7A9CFF,50:9B7AFF,100:00C896&height=3"
-    alt=""
+    alt="Separator"
   />
 
   <br><br>
@@ -28,6 +28,8 @@
 
 <br>
 
+---
+
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=sercawa&label=Visitors&color=7A9CFF&style=for-the-badge"
@@ -35,25 +37,33 @@
   />
 </p>
 
+---
+
 <p align="center">
   <img
     src="https://img.shields.io/badge/Loves-Clean%20Code-FF6B6B?style=for-the-badge"
     alt="Loves Clean Code"
   />
+
   <img
     src="https://img.shields.io/badge/Always-Learning-00C896?style=for-the-badge"
     alt="Always Learning"
   />
 </p>
 
+---
+
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=js,nodejs,python,ts&theme=dark"
-    alt="Skills"
+    alt="JavaScript, Node.js, Python and TypeScript"
   />
 </p>
 
+---
+
 <p align="center">
+
   <a href="https://discord.com/users/278671095719133185">
     <img
       src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"
@@ -67,4 +77,5 @@
       alt="GitHub"
     />
   </a>
+
 </p>
