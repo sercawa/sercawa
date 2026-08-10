@@ -5,13 +5,11 @@
     alt="Hi there, I'm sercawa"
   />
 
-  <br>
+  <br><br>
 
   <img
-    width="440"
-    height="3"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:7A9CFF,50:9B7AFF,100:00C896&height=3"
-    alt="Separator"
+    src="https://img.shields.io/badge/Welcome-To%20My%20Profile-7A9CFF?style=for-the-badge&logo=github&logoColor=white"
+    alt="Welcome to my profile"
   />
 
   <br><br>
@@ -28,16 +26,12 @@
 
 <br>
 
----
-
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=sercawa&label=Visitors&color=7A9CFF&style=for-the-badge"
     alt="Visitors"
   />
 </p>
-
----
 
 <p align="center">
   <img
@@ -51,19 +45,14 @@
   />
 </p>
 
----
-
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=js,nodejs,python,ts&theme=dark"
-    alt="JavaScript, Node.js, Python and TypeScript"
+    alt="Skills"
   />
 </p>
 
----
-
 <p align="center">
-
   <a href="https://discord.com/users/278671095719133185">
     <img
       src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"
@@ -77,5 +66,4 @@
       alt="GitHub"
     />
   </a>
-
 </p>
